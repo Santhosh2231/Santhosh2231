@@ -13,6 +13,7 @@ Hi there! I'm  Santhosh Raminedi, a Full stack developer and AI & ML enthusiast 
 - Deep Learning
 - Natural Language Processing
 
+
 ## Projects
 - [Agro Vision](https://github.com/Santhosh2231/TRINIT_594092-U315F9MO_ML)
 - [Connect](https://github.com/Santhosh2231/Connect-mern)
