@@ -28,6 +28,11 @@ Hi there! I'm  Santhosh Raminedi, a Full stack developer and AI & ML enthusiast 
 ## Most used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh2231&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2 align="left">Summary:</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh2231&" alt="Santhosh2231" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhosh2231&theme=default)
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/raminedisanthosh22/)
