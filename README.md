@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hi there! I'm  Santhosh Raminedi, a software engineer and AI & ML enthusiast who loves to build and create things. 
+Hi there! I'm  Santhosh Raminedi, a Full stack developer and AI & ML enthusiast who loves to build and create things. 
 
 
 ## Skills
