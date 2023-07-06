@@ -3,7 +3,9 @@
 # Welcome to my GitHub Profile!
 
 Hi there! I'm  Santhosh Raminedi, a Full stack developer and AI & ML enthusiast who loves to build and create things. 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Santhosh2231&label=Profile%20views&color=0e75b6&style=flat" alt="Santhosh2231" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Santhosh2231&label=Profile%20views&color=0e75b6&style=flat" alt="Santhosh2231" /> 
+### Checkout My Portifolio [Click Here](https://santhosh-raminedi.netlify.app/)
+</p>
 
 ### Checkout My Portifolio [Click Here](https://santhosh-raminedi.netlify.app/)
 
