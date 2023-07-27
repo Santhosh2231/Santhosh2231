@@ -6,7 +6,7 @@ Hi there! I'm  Santhosh Raminedi, a Full stack developer and AI & ML enthusiast 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Santhosh2231&label=Profile%20views&color=0e75b6&style=flat" alt="Santhosh2231" /> 
 </p>
 
-### Checkout My Portifolio [Click Here](https://santhosh-raminedi.netlify.app/)
+### Checkout My Portifolio [Click Here](https://santhosh-raminedi22.netlify.app/)
 
 ## Skills
 - MERN stack
